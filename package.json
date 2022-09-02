@@ -1,0 +1,14 @@
+{
+  "name": "React-Js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.18.13",
+    "@babel/preset-react": "^7.18.6"
+  },
+  "scripts": {
+    "build": "babel src --out-dir public"
+  }
+}
